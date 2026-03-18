@@ -20,10 +20,10 @@
 Proposed a neural network framework for weak link prediction based on hyper latent distance in embedding space.
 
 **My Contributions:**
-- Implemented key components of the model  
-- Conducted experiments on multiple real-world datasets  
-- Evaluated performance using AUC and Precision  
-- Performed comparisons with baseline methods  
+- Implemented the neural network model for link prediction using PyTorch  
+- Designed and conducted experiments on multiple real-world network datasets  
+- Evaluated model performance using AUC and Precision metrics  
+- Performed comparisons with traditional link prediction methods  
 
 ---
 
@@ -36,10 +36,10 @@ Proposed a neural network framework for weak link prediction based on hyper late
 Designed a graph representation learning framework using mutual information estimation for fraud detection.
 
 **My Contributions:**
-- Implemented graph neural network models in PyTorch  
-- Assisted in training with contrastive learning objectives  
-- Conducted ablation studies and evaluation  
-- Worked with real-world fraud detection datasets  
+- Implemented heterogeneous graph neural network models in PyTorch  
+- Assisted in training using contrastive learning objectives  
+- Conducted ablation studies to analyze model components  
+- Evaluated performance on real-world fraud detection datasets  
 
 ---
 
